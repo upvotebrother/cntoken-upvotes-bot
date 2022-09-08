@@ -1,0 +1,1 @@
+# cntoken-upvotes-bot
